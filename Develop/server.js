@@ -30,7 +30,7 @@
      res.json(notes);
  });
 
- app.delete(/api/notes/:id,)
+//  app.delete(/api/notes/:id,)
 
 
 
