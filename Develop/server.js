@@ -28,7 +28,11 @@
      fs.writeFileSync('./db/db.json', JSON.stringify(notes));
 
      res.json(notes);
- })
+ });
+
+ app.delete(/api/notes/:id,)
+
+
 
  
  
